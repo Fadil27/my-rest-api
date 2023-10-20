@@ -4,7 +4,7 @@ global.creator = 'Fadilfc'// yourname
 global.MONGO_DB_URI = "mongodb+srv://Mikubot:<mikubot1>@cluster0.rvhrkve.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "treeds608@gmail.com" //email
-global.email_password = "" //application password email
+global.email_password = "gzlu gvbf hgol mqnj" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
